@@ -1,0 +1,7 @@
+/* Make the entire page black */
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    height: 100%;
+}
